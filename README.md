@@ -1,1 +1,1 @@
-# mediator-docs-because-why-not
+Don't read this. It is too complex to understand.
