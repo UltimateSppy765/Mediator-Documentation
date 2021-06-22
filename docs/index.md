@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## The documentation for The Mediator
 
-You can use the [editor on GitHub](https://github.com/UltimateSppy765/mediator-docs-because-why-not/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the documentation for the Moderation Discord Bot - The Mediator#
 
 ### Markdown
 
