@@ -1,6 +1,13 @@
 ## The documentation for The Mediator
 
 This is the documentation for the Moderation Discord Bot - The Mediator#2857
+__Please Note:__ Only select servers have access to this bot, you can't invite it to your own server. And if you do get it to your server somehow, it won't work until it is set up for your server by one of the developers.
+
+**The bot is still in development and this documentation is highly incomplete, please don't read this right now if you're seeing this. Wait till it is completed.**
+
+### Why a documentation? 
+The bot does not have a help command. _I was too lazy to make one lol._
+And anyways it uses only slash commands so I see no point of making a help command. _Tbh I made this because I wanted to play with Github Pages lol hope this site looks good. :D_
 
 ### Markdown
 
